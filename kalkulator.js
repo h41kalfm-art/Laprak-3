@@ -1,7 +1,7 @@
 window.onload = function(){
 
 alert(
-"Welcome to Naufal Demas Semester grade calculator"
+"Welcome to Haikal Fadhillah Mukti Semester grade calculator"
 );
 
 }
